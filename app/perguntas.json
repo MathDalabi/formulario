@@ -1,0 +1,171 @@
+[   
+    {
+        "questão": "1",
+        "secreta": false,
+        "pergunta": "Qual a sua idade",
+        "alternativas": [
+            "15 ou menos",
+            "Entre 16 e 18",
+            "Entre 19 e 29",
+            "Entre 30 e 39",
+            "Entre 40 e 49",
+            "Acima de 50"
+        ]
+    },
+    {
+        "questão": "2",
+        "secreta": false,
+        "pergunta": "Qual o seu gênero",
+        "alternativas": [
+            "Mulher",
+            "Homem",
+            "Não Binário",
+            "Outros",
+            "Prefiro não responder"
+        ]
+    },
+    {
+        "questão": "3",
+        "secreta": false,
+        "pergunta": "Qual é sua escolaridade",
+        "alternativas": [
+            "Cursando o fundamental",
+            "Cursnado o 1º ano do ensino médio",
+            "Cursnado o 2º ano do ensino médio",
+            "Cursnado o 3º ano do ensino médio",
+            "Ensino médio completo",
+            "Ensino superior incompleto ou cursando",
+            "Ensino superior completo"
+        ]
+    },
+    {
+        "questão": "4",
+        "secreta": false,
+        "pergunta": "Qual dispositivo você mais utiliza para acessar a internet? (Escolha um ou mais)",
+        "alternativas": [
+            "Celular",
+            "Tablet",
+            "Computador de Mesa",
+            "Notebook",
+            "Video Game",
+            "Smart-TV"
+        ]
+    },
+    {
+        "questão": "5",
+        "secreta": false,
+        "pergunta": "Com que você gasta mais tempo na internet? (Escolha um ou mais)",
+        "alternativas": [
+            "Estudos/educação",
+            "Redes sociais (Instagran, X, Facebook etc.)",
+            "Jogos (CS, Fortnite, LOL etc.)",
+            "Streaming (Netflix, Disney+, Max etc.)",
+            "Cassino Online (apostas, Tigrinho etc.)",
+            "Compras online (Shopee, Shein, Amazon etc.)",
+            "Chats (WhatsApp, Messenger etc.)",
+            "Aplicativos de relacionamento (Tinder, Bumble etc.)"
+        ]
+    },
+    {
+        "questão": "6",
+        "secreta": false,
+        "pergunta": "Você já gastou dinheiro na internet",
+        "alternativas": [
+            "Sim",
+            "Não"
+        ]
+    },
+    {
+        "questão": "7",
+        "secreta": true,
+        "pergunta": "Com qual frequencia você gasta dinheiro na internet",
+        "alternativas": [
+            "Uma única vez",
+            "Raramente (anualmente)",
+            "Esporadicamente (mensalmente)",
+            "Frequentemente (semanalmente)"
+        ]
+    },
+    {
+        "questão": "8",
+        "secreta": true,
+        "pergunta": "Com quais desses items",
+        "alternativas": [
+            "Jogos (CS, Fortnite, LOL etc.)",
+            "Streaming (Netflix, Disney+, Max etc.)",
+            "Cassino Online (apostas, Tigrinho etc.)",
+            "Compras online (Shopee, Shein, Amazon etc.)",
+            "Aplicativos de relacionamento (Tinder, Bumble etc.)"
+        ]
+    },
+    {
+        "questão": "1",
+        "secreta": false,
+        "pergunta": "",
+        "alternativas": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "questão": "1",
+        "secreta": false,
+        "pergunta": "",
+        "alternativas": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "questão": "1",
+        "secreta": false,
+        "pergunta": "",
+        "alternativas": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "questão": "1",
+        "secreta": false,
+        "pergunta": "",
+        "alternativas": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "questão": "1",
+        "secreta": false,
+        "pergunta": "",
+        "alternativas": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "questão": "1",
+        "secreta": false,
+        "pergunta": "",
+        "alternativas": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "questão": "1",
+        "secreta": false,
+        "pergunta": "",
+        "alternativas": [
+            "",
+            "",
+            ""
+        ]
+    }
+]
