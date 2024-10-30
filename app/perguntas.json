@@ -99,73 +99,178 @@
         ]
     },
     {
-        "questão": "1",
+        "questão": "9",
         "secreta": false,
-        "pergunta": "",
+        "pergunta": "Você já criou alguma conta fake ou com algum dado pessoal falso?",
         "alternativas": [
-            "",
-            "",
-            ""
+            "Sim",
+            "Nâo"
         ]
     },
     {
-        "questão": "1",
-        "secreta": false,
-        "pergunta": "",
+        "questão": "10",
+        "secreta": true,
+        "pergunta": "Por qual motivo você precisou de uma conta fake?",
         "alternativas": [
-            "",
-            "",
-            ""
+            "Stalkear alguém",
+            "Comentar em posts ou fóruns anonimamente",
+            "Hakear outras contas",            
+            "Outro motivo:"
         ]
     },
     {
-        "questão": "1",
+        "questão": "11",
         "secreta": false,
-        "pergunta": "",
+        "pergunta": "Você já usou VPN?",
         "alternativas": [
-            "",
-            "",
-            ""
+            "Sim",
+            "Nâo",
+            "Não sei. O que é VPN???"
         ]
     },
     {
-        "questão": "1",
+        "questão": "12",
         "secreta": false,
-        "pergunta": "",
+        "pergunta": "Já utilizou algum software pirateado/sem pagar pela licença de uso? ",
         "alternativas": [
-            "",
-            "",
-            ""
+            "Sim",
+            "Nâo"
         ]
     },
     {
-        "questão": "1",
-        "secreta": false,
-        "pergunta": "",
+        "questão": "13",
+        "secreta": true,
+        "pergunta": "Qual foi a finalidade",
         "alternativas": [
-            "",
-            "",
-            ""
+            "Jogos",
+            "Edição de vídeos e fotos",
+            "Fins acadêmicos",
+            "Sistema operacional (Microsoft)",
+            "Streaming (usando senha alheia, download etc.)"
         ]
     },
     {
-        "questão": "1",
+        "questão": "14",
         "secreta": false,
-        "pergunta": "",
+        "pergunta": "Você já tentou/conseguiu invadir a conta de outra pessoa sem autorização?",
         "alternativas": [
-            "",
-            "",
-            ""
+            "Sim",
+            "Nâo"
         ]
     },
     {
-        "questão": "1",
-        "secreta": false,
-        "pergunta": "",
+        "questão": "15",
+        "secreta": true,
+        "pergunta": "O que te levou a (tentar) invadir a conta de outra pessoa sem autorização?",
         "alternativas": [
-            "",
-            "",
-            ""
+            "Vingança ",
+            "Brincadeira ",
+            "Curiosidade",
+            "Com intuito de fazer chantagem e extorquir algo da pessoa",
+            "Para usar a identidade ou conta dessa pessoa",
+            "Outros motivos:"
+
+
+        ]
+    },
+    {
+        "questão": "16",
+        "secreta": false,
+        "pergunta": "Você já acessou dados ou dispositivos de outra pessoa sem autorização?",
+        "alternativas": [
+            "Sim",
+            "Nâo"
+
+        ]
+    },
+    {
+        "questão": "17",
+        "secreta": true,
+        "pergunta": "O que te levou a acessar dados ou dispositivos de outra pessoa sem autorização",
+        "alternativas": [
+            "Vingança",
+            "Brincadeira",
+            "Curiosidade",
+            "Com intuito de fazer chantagem e extorquir algo da pessoa",
+            "Para usar a identidade ou conta dessa pessoa",
+            "Outros motivos:"
+
+        ]
+    },
+    {
+        "questão": "18",
+        "secreta": false,
+        "pergunta": "Você já sofreu algum tipo de assédio ou bullying online?",
+        "alternativas": [
+            "Sim",
+            "Nâo"
+        ]
+    },
+    {
+        "questão": "19",
+        "secreta": false,
+        "pergunta": "Você já foi vítima de algum crime digital?",
+        "alternativas": [
+            "Clonaram minha conta",
+            "Roubaram meus dados",
+            "Fui vítima de outro crime .Especifique: ",
+            "Não fui vítima"
+
+
+        ]
+    },
+    {
+        "questão": "20",
+        "secreta": false,
+        "pergunta": "Você utiliza ou já utilizou IA (Inteligência Artificial)?",
+        "alternativas": [
+            "Sim",
+            "Nâo"
+        ]
+    },
+    {
+        "questão": "21",
+        "secreta": true,
+        "pergunta": "Para qual finalidade",
+        "alternativas": [
+            "Geração de texto",
+            "Geração de imagem",
+            "Geração de voz"
+
+        ]
+    },
+    {
+        "questão": "22",
+        "secreta": true,
+        "pergunta": "Você já editou a imagem de alguém que você conhece",
+        "alternativas": [
+            "Sim",
+            "Nâo"
+        ]
+    },
+    {
+        "questão": "23",
+        "secreta": false,
+        "pergunta": "Quais cuidados você toma para proteger seus dados pessoais online? (Escolha 1 ou mais)",
+        "alternativas": [
+            "Uso de senhas fortes",
+            "Ativação da autenticação em duas etapas",
+            "Não compartilho informações pessoais",
+            "Não me preocupo com isso"
+
+
+        ]
+    },
+    {
+        "questão": "24",
+        "secreta": false,
+        "pergunta": "Você considera que possui conhecimento suficiente sobre segurança digital?",
+        "alternativas": [
+            "Sim",
+            "Não",
+            "Não sei"
+
+
         ]
     }
 ]
